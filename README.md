@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Shao who is UCSD MSBA candidate and Tesla intern.
-- 👀 I’m interested in data analysis, data scienice, NLP. 
+- 👀 I’m interested in data analysis, data scienice, NLP, etc. 
 - 🌱 I’m starting my career as data anlyst/data scientist now.
 - 📫 You can add me to Linkedn www.linkedin.com/in/michael-k-shao. Feel free to reach out to me.
 
